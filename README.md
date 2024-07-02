@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 With background in science and engineering diciplines, a graduate of an intensive coding bootcamp, I am eager to collaborate with professionals and contribute my programming and soft skills to a team.
+
 
 <!--
 **newjackjack/newjackjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
