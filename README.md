@@ -1,4 +1,5 @@
-### Hi there 👋 With background in science and engineering diciplines, a graduate of an intensive coding bootcamp, I am eager to collaborate with professionals and contribute my programming and soft skills to a team.
+### Hi there 👋 
+With background in science and engineering diciplines, a graduate of an intensive coding bootcamp, I am eager to collaborate with professionals and contribute my programming and soft skills to a team.
 
 
 <!--
